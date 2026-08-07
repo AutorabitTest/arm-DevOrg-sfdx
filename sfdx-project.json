@@ -1,20 +1,18 @@
 {
-  "packageDirectories": [
-    {
-      "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT",
-      "path": "force-app",
-      "default": true,
-      "package": "armDemo",
-      "versionDescription": ""
-    }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "67.0",
-  "name": "src",
-  "packageAliases": {
-    "armDemo": "0Hog5000000183ZCAQ",
-    "armDemo@0.1.0-1": "04tg5000000CHoHAAW"
-  }
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true,
+    "package" : "armDemo",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "67.0",
+  "packageAliases" : {
+    "armDemo" : "0Hog5000000183ZCAQ",
+    "armDemo@0.1.0-1" : "04tg5000000CHoHAAW",
+    "armDemo@1.0.0.0" : "04tg5000000CM6PAAW"
+  },
+  "name" : "src"
 }
