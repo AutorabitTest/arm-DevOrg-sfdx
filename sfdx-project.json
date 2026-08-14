@@ -11,7 +11,8 @@
   "sourceApiVersion" : "67.0",
   "packageAliases" : {
     "armDemo" : "0Hog5000000183ZCAQ",
-    "armDemo@1.0.1.0" : "04tg5000000CMb3AAG"
+    "armDemo@1.0.1.0" : "04tg5000000CMb3AAG",
+    "armDemo@1.0.2.0" : "04tg5000000CppxAAC"
   },
   "name" : "src"
 }
