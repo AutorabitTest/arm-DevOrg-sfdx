@@ -4,8 +4,6 @@
         <members>ApexClassTest</members>
         <members>ApexClassTest2</members>
         <members>ApexClassTest3</members>
-        <members>ApexClassTest4</members>
-        <members>ApxClsTst5</members>
         <name>ApexClass</name>
     </types>
     <version>67.0</version>
