@@ -1,0 +1,9 @@
+<!--  IT fixture: names a class that exists in no org, so Salesforce answers
+     "No ApexClass named: ... found" as problemType=Warning, not Error.  -->
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<types>
+<members>ArmItIgnoreWarningsProbeMissingClass</members>
+<name>ApexClass</name>
+</types>
+<version>66.0</version>
+</Package>
